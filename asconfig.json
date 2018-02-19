@@ -1,0 +1,15 @@
+{
+	"config": "flex",
+	"compilerOptions": {
+        "output": "bin/MazeEscape.swf",
+        "static-link-runtime-shared-libraries": true,
+        "default-size": {
+            "width": 540,
+            "height": 540
+        }
+	},
+	"files":
+	[
+		"src/MazeEscape.as"
+	]
+}
